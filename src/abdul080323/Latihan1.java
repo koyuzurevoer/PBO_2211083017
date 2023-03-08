@@ -9,5 +9,7 @@ package abdul080323;
  * @author Bedul
  */
 public class Latihan1 {
-    
+    public static void main (String[] args ){
+        System.out.println("Hello");
+    }
 }
