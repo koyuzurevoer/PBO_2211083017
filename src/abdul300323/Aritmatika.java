@@ -33,6 +33,10 @@ class Aritmatika {
             }
             return ganjil;
         }
+        public static int[] ambilnBilanganPrima(int a){
+            
+        }
+        
 }
 
 
