@@ -2,6 +2,11 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/Users/Lenovo/Documents/GitHub/PBO_2211083017/src/dul/db/DbHelper.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/GitHub/PBO_2211083017/src/dul/dao/peminjamanDao.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/GitHub/PBO_2211083017/src/dul/model/peminjaman.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/GitHub/PBO_2211083017/src/dul/dao/peminjamanDaoImpl.java</file>
+        </group>
     </open-files>
 </project-private>

@@ -5,7 +5,7 @@
  */
 package dul.dao;
 
-import adit.model.peminjaman;
+import dul.model.peminjaman;
 
 /**
  *
